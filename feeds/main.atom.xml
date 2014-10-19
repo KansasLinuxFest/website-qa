@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kansas Linux Fest</title><link>http://kansaslinuxfest.us/</link><description></description><atom:link href="http://kansaslinuxfest.us/feeds/main.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 18 Oct 2014 09:00:00 -0500</lastBuildDate><item><title>Kansas Linux Fest</title><link>http://kansaslinuxfest.us/kansas-linux-fest.html</link><description>&lt;p&gt;modified : 2014-10-18 18:00
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kansas Linux Fest</title><link href="http://kansaslinuxfest.us/" rel="alternate"></link><link href="http://kansaslinuxfest.us/feeds/main.atom.xml" rel="self"></link><id>http://kansaslinuxfest.us/</id><updated>2014-10-18T09:00:00-05:00</updated><entry><title>Kansas Linux Fest</title><link href="http://kansaslinuxfest.us/kansas-linux-fest.html" rel="alternate"></link><updated>2014-10-18T09:00:00-05:00</updated><author><name>Free/Libre Open Source and Open Knowledge Association of Kansas</name></author><id>tag:kansaslinuxfest.us,2014-10-18:kansas-linux-fest.html</id><summary type="html">&lt;p&gt;modified : 2014-10-18 18:00
 keywords : Linux, Main&lt;/p&gt;
 &lt;h1&gt;Kansas Linux Fest&lt;/h1&gt;
 &lt;h2&gt;a Yearly Open Source (Free/Libre Open Source Software) and Open Knowledge Festival for Kansas&lt;/h2&gt;
@@ -40,4 +40,4 @@ logos and styles, just fork the pages on github and send us your ideas!&lt;/p&gt
 windows&lt;/a&gt;, and if possible and stay on the
 channel, there is not always someone online&lt;/p&gt;
 &lt;p&gt;Kansas Linux Fest is maintained by
-&lt;a href="https://github.com/KansasLinuxFest"&gt;KansasLinuxFest&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Free/Libre Open Source and Open Knowledge Association of Kansas</dc:creator><pubDate>Sat, 18 Oct 2014 09:00:00 -0500</pubDate><guid>tag:kansaslinuxfest.us,2014-10-18:kansas-linux-fest.html</guid></item></channel></rss>
+&lt;a href="https://github.com/KansasLinuxFest"&gt;KansasLinuxFest&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
